@@ -7,7 +7,7 @@
 5. [Multi Linear Regression](https://github.com/KamalMahanna/MLR)
 6. [Logistic Regression](https://github.com/KamalMahanna/Logistic-Regression)
 7. [Clustering](https://github.com/KamalMahanna/Clustering)
-8. [PCA](https://github.com/PCA)
+8. [PCA](https://github.com/KamalMahanna/PCA)
 9. [Association Rules](https://github.com/KamalMahanna/Association-Rule.git)
 10. [Recommendation System](https://github.com/KamalMahanna/Reccommendation-system.git)
 11. [Text Mining](https://github.com/KamalMahanna/Text-Mining.git)
