@@ -14,7 +14,7 @@
 12. [Naive Bayes](https://github.com/KamalMahanna/Naive-Bayes.git)
 13. [KNN](https://github.com/KamalMahanna/KNN)
 14. [Decision Trees](https://github.com/KamalMahanna/Decision-Trees)
-15. [Random Forest](https://github.com/KamalMahanna/Random-Forest)
+15. [Random Forest](https://github.com/KamalMahanna/Random-Forests)
 16. [Neural Networks](https://github.com/KamalMahanna/Neural-Networks.git)
 17. [Support Vector Machine](https://github.com/KamalMahanna/SVM.git)
 18. [Forecating](https://github.com/KamalMahanna/Forecasting.git)
